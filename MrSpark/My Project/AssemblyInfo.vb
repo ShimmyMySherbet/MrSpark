@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("MrSpark Script Converter")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("MrSpark")>
-<Assembly: AssemblyCopyright("Copyright ©  2018")>
+<Assembly: AssemblyCopyright("Copyright ShimmyMYSherbet©  2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
